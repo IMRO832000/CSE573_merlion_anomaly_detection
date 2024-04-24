@@ -1,0 +1,36 @@
+#this document holds the empirical evaluations of the 6 chosen models
+ZMS
+Precision: 0.8278
+Recall:    1.0000
+F1:        0.9058
+MTTD:      0 days 02:33:20
+
+IsolationForest
+Precision: 0.8480
+Recall:    1.0000
+F1:        0.9178
+MTTD:      0 days 02:01:40
+
+RandomCutForest
+Precision: 0.8501
+Recall:    1.0000
+F1:        0.9190
+MTTD:      0 days 02:06:40
+
+AutoEncoder
+Precision: 0.8418
+Recall:    1.0000
+F1:        0.9141
+MTTD:      0 days 01:40:00
+
+VAE
+Precision: 0.8398
+Recall:    1.0000
+F1:        0.9129
+MTTD:      0 days 01:40:00
+
+DeepPointAnomalyDetector
+Precision: 0.9830
+Recall:    1.0000
+F1:        0.9914
+MTTD:      0 days 04:21:40
