@@ -4,5 +4,5 @@
 2. machine_temperature_system_failure.csv:
 
 ## Multivariate Data
-1. Mars Science Laboratory (MSL) :
-2. The Soil Moisture Active/Passive (SMAP) :
+1. Mars Science Laboratory (MSL) : Anomalies recorded and labelled in the telemetry data from Mars Rover Instruments and sensors.
+2. The Soil Moisture Active/Passive (SMAP) : This dataset contains telemetry data that is labelled and can be used for training and testing anomaly detection models.
