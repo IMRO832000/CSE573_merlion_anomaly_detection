@@ -1,0 +1,30 @@
+#These are the empirical evaluation results of trained anomaly detection models on test data from SMAP dataset
+IsolationForest
+Precision: 0.9579
+Recall:    0.5201
+F1:        0.6742
+MTTD:      0 days 00:35:42
+
+RandomCutForest
+Precision: 0.9616
+Recall:    0.6600
+F1:        0.7828
+MTTD:      0 days 01:32:35
+
+AutoEncoder
+Precision: 0.9579
+Recall:    0.5433
+F1:        0.6934
+MTTD:      0 days 00:37:05
+
+VAE
+Precision: 0.9562
+Recall:    0.5137
+F1:        0.6683
+MTTD:      0 days 00:47:53
+
+DeepPointAnomalyDetector
+Precision: 0.9617
+Recall:    0.6305
+F1:        0.7617
+MTTD:      0 days 01:37:01
