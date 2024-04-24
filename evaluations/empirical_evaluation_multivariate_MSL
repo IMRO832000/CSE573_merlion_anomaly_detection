@@ -1,0 +1,30 @@
+# This is the empirical Evaluation of trained anomaly detection models on test data from MSL dataset
+IsolationForest
+Precision: 0.9638
+Recall:    0.8192
+F1:        0.8856
+MTTD:      0 days 01:40:57
+
+RandomCutForest
+Precision: 0.9549
+Recall:    0.9057
+F1:        0.9297
+MTTD:      0 days 00:59:16
+
+AutoEncoder
+Precision: 0.9495
+Recall:    0.8429
+F1:        0.8930
+MTTD:      0 days 01:16:33
+
+VAE
+Precision: 0.9555
+Recall:    0.8688
+F1:        0.9101
+MTTD:      0 days 00:58:18
+
+DeepPointAnomalyDetector
+Precision: 0.9543
+Recall:    0.8305
+F1:        0.8881
+MTTD:      0 days 00:59:12
