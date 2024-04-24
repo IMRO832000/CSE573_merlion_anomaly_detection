@@ -1,4 +1,5 @@
 #this document holds the empirical evaluations of the 6 chosen models
+#this was performed on ec2 request latency system failure dataset.
 ZMS
 Precision: 0.8278
 Recall:    1.0000
