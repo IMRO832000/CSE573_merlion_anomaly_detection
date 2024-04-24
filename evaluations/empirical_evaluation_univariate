@@ -1,0 +1,36 @@
+#This is the emprical e valuation results of the 6 chosen models upon the machine_temperature_system_failure dataset
+ZMS
+Precision: 0.9466
+Recall:    1.0000
+F1:        0.9726
+MTTD:      0 days 03:28:20
+
+IsolationForest
+Precision: 0.8924
+Recall:    1.0000
+F1:        0.9432
+MTTD:      0 days 02:15:00
+
+RandomCutForest
+Precision: 0.9240
+Recall:    1.0000
+F1:        0.9605
+MTTD:      0 days 02:20:00
+
+AutoEncoder
+Precision: 0.9924
+Recall:    1.0000
+F1:        0.9962
+MTTD:      0 days 08:20:00
+
+VAE
+Precision: 0.9942
+Recall:    1.0000
+F1:        0.9971
+MTTD:      0 days 12:18:20
+
+DeepPointAnomalyDetector
+Precision: 0.9393
+Recall:    1.0000
+F1:        0.9687
+MTTD:      0 days 02:58:20
